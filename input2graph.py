@@ -1,5 +1,6 @@
 import os, string
 
+
 dir1 = ["1.2", "2.1", "2.2"]
 #os.makedirs("DelProb")
 #os.makedirs("DetectTime")
